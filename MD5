@@ -1,0 +1,11 @@
+ec2573d04c6e16284f6bdd4fce13e15a *DESCRIPTION
+43b03d21a0e08afa96fa7df17b40bd83 *LICENSE
+0c7946e5a3248035588969b45255417a *NAMESPACE
+f38b96756cd1924e39145a6f62b8157d *NEWS.md
+d35fae28c55a8fd62845a7d35fb55da1 *R/RcppExports.R
+c3a9a46f731c7b121a98e5b19c03cc95 *R/countsplit.R
+f861eb11f616b24f6b610a346b23044d *README.md
+2cbd2436c145ed08c1ce672acaec3f36 *man/countsplit.Rd
+4b09d4a3cc23add581216abf54012d70 *src/RcppExports.cpp
+704634c5c57bb5bedff28dd4a4b5dcdf *src/dir_mul_sample.cpp
+297c69bece8d0a0db3563d56c1b15bcf *tests/testthat/test_basic.R
